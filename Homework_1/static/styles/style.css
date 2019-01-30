@@ -1,0 +1,41 @@
+html{
+	background-color:gray;
+}
+#err{
+	color:red;
+	padding:24px;
+	text-align: center;
+}
+#app{
+	width:450px;
+	height:450px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:80px;
+	border-radius: 25px;
+	background-color: #C0C0C0;
+
+}
+
+table{
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.textbox{
+	width:36px;
+}
+#result{
+	color:green;
+}
+
+td{
+	text-align: center;
+}
+header{
+	background-color: white;
+	margin:0;
+	padding-bottom: 12px;
+}
